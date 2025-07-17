@@ -1,4 +1,4 @@
-
+import React from 'react';
 export default function App() {
   return (
     <main className="min-h-screen bg-white text-gray-800 font-sans">
